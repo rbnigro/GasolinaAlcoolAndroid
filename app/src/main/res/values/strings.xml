@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sorteio</string>
+    <string name="jogar">Jogar</string>
+    <string name="clicar">Click no Botão Para Gerar um Número Aleatório"</string>
+    <string name="numeroMinimo">Número Minimo:</string>
+    <string name="numeroMaximo">Número Máximo:</string>
+    <string name="numeroSorteado">Número Sorteado: "</string>
+    <string name="descImage"></string>
+</resources>
